@@ -22,7 +22,7 @@ function Home() {
               <i className="fa-brands fa-github text-2xl hover:text-white"></i>
             </Link>    
             <Link to="https://www.linkedin.com/in/rahul-vishwakarma-a74957360/">
-              <i className="fa-brands fa-linkedin   text-2xl hover:text-blue-500"></i>
+              <i className="fa-brands fa-linkedin text-2xl hover:text-blue-500"></i>
             </Link>
             <Link to="https://www.facebook.com/profile.php?id=100042418248602">
               <i className="fa-brands fa-square-facebook text-2xl hover:text-blue-500"></i>
