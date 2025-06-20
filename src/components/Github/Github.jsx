@@ -50,15 +50,15 @@ export default function Github() {
 
           {/* Social Links */}
           <div className="flex gap-6 mt-8 justify-center">
-            <Link to="/instagram" className="text-white hover:text-pink-500 text-2xl">
-              <i className="fa-brands fa-square-instagram"></i>
+            <Link to="https://www.linkedin.com/in/rahul-vishwakarma-a74957360/" className="text-white hover:text-pink-500 text-2xl">
+              <i className="fa-brands fa-square-linkedin"></i>
             </Link>
-            <Link to="/linkedin" className="text-white hover:text-blue-500 text-2xl">
-              <i className="fa-brands fa-linkedin"></i>
+            <Link to="https://www.facebook.com/profile.php?id=100042418248602" className="text-white hover:text-blue-500 text-2xl">
+              <i className="fa-brands fa-facebook"></i>
             </Link>
           </div>
         </div>
-      </div>
+      </div>  
     </div>
   );
 }

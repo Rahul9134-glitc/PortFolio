@@ -20,9 +20,9 @@ function Home() {
           <div className="flex justify-center md:justify-start gap-6 mt-10">
             <Link to="/github">
               <i className="fa-brands fa-github text-2xl hover:text-white"></i>
-            </Link>
+            </Link>    
             <Link to="https://www.linkedin.com/in/rahul-vishwakarma-a74957360/">
-              <i className="fa-brands fa-linkedin text-2xl hover:text-blue-500"></i>
+              <i className="fa-brands fa-linkedin   text-2xl hover:text-blue-500"></i>
             </Link>
             <Link to="https://www.facebook.com/profile.php?id=100042418248602">
               <i className="fa-brands fa-square-facebook text-2xl hover:text-blue-500"></i>
